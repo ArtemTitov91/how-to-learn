@@ -1,0 +1,9 @@
+.header__frameworks-image{
+    width: 765px;
+    height: 608px;
+    position: relative;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    right: 0%;
+}

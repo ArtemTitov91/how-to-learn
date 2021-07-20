@@ -1,0 +1,13 @@
+.video__iframes{
+    width: 100%;
+    margin: 50px auto -50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+    /* border: 1px solid red; */
+
+}
+
+.video__iframes:nth-of-type(n2){
+margin-left: 20px;
+}
