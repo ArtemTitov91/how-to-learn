@@ -1,6 +1,7 @@
 @import url(../vendor/normalize.css);
 @import url(../fonts/fonts.css);
 @import url(../blocks/rotation/rotation.css);
+@import url(../blocks/page/page.css);
 /* Header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__title/header__title.css);
@@ -56,7 +57,7 @@
 @import url(../blocks/kaufman/kaufman.css);
 @import url(../blocks/kaufman/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/kaufman/section-subtitle/_theme/section-subtitle_theme_dark.css);
-@import url(../blocks/kaufman/__triangle/kaufman__triangele.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 /* resources */
 @import url(../blocks/resources/section-title/section-title.css);
 @import url(../blocks/resources/section-suptitle/section-suptitle.css);
@@ -86,17 +87,7 @@
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-title/_theme/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
-.page{
-  min-width: 1100px;
-  max-width: 1600px;
-  margin: 0 auto;
-  font-family: "Inter", "Arial", "sans-serif";
-  display: flex;
-  flex-direction: column;
-  /* flex-wrap: wrap; */
-  outline: 1px solid rgb(75, 22, 22);
 
-}
 /* div{
   border: 1px solid red;
 } */
